@@ -1,0 +1,16 @@
+{
+  "name": "facebookmesenger",
+  "version": "1.0.0",
+  "description": "facebook para messenger usando nodejs + codeneo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Daniel Romero",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "request": "^2.79.0"
+  }
+}
