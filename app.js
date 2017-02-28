@@ -6,7 +6,7 @@ const APP_TOKEN = 'YOUR_TOKEN_FACEBOOK';
 
 
 const apiai = require('apiai');
-const apiaiApp = apiai("YOUR_API_APIAI");
+const apiaiApp = apiai("YOUR_API_KEY_APIAI");
 
 var app = express();
 
